@@ -101,8 +101,6 @@ Enhance UI/UX with animations and design system.
 
 📽️ Assignment Deliverables
 
-🎥 Self Introduction Video: Click Here
+💻 GitHub Repository: https://github.com/bachu154/User-Management-Dashboard.git
 
-💻 GitHub Repository: User Management Dashboard Repo
-
-🌐 Deployed App: Live Demo
+🌐 Deployed App: https://user-management-dashboard-xi-bice.vercel.app/
